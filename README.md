@@ -7,7 +7,7 @@
 
 
 
-<b><h1>Snake Game :snake: :heart:</h1></b> 
+<b><h1>Snake Game :snake:</h1></b> 
 <p align="justify"> Jogo da cobrinha utilizando javascript // Snake game in javascript </p>
 
 ## :desktop_computer:	 Tecnologias Utilizadas
